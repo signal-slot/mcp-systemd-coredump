@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/signal-slot-mcp-systemd-coredump-badge.png)](https://mseep.ai/app/signal-slot-mcp-systemd-coredump)
+
 # systemd-coredump MCP Server
 
 A Model Context Protocol (MCP) server for interacting with systemd-coredump functionality. This enables MCP-capable applications to access, manage, and analyze system core dumps.
